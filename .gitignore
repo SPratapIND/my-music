@@ -1,0 +1,10 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Keep the generated playlist, music, and artwork in Git.
+# Do not add music files here.
