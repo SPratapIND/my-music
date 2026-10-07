@@ -17,11 +17,35 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Aaj Purani Raahon Se (From Aadmi).flac",
+      "title": "Aaj Purani Raahon Se (From \"Aadmi\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/433ac895da.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/aaj purani rahon se.mp3",
       "title": "aaj purani rahon se",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aajkal Tere Mere Pyar Ke Charche (From Brahmachari).flac",
+      "title": "Aajkal Tere Mere Pyar Ke Charche (From \"Brahmachari\")",
+      "artist": "Suman Kalyanpur, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/8a7a976b6b.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aana Meri Jaan Sunday Ke Sunday (From Shehnai).flac",
+      "title": "Aana Meri Jaan Sunday Ke Sunday (From \"Shehnai\")",
+      "artist": "Meena Kapoor, Chitalkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/65d192bc7f.jpg",
       "language": "Hindi"
     },
     {
@@ -33,11 +57,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Aanewala Pal Janewala Hai (From  Golmaal ).mp3",
+      "title": "Aanewala Pal Janewala Hai (From \"Golmaal\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/e028625f7a.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Aankh Marey.mp3",
       "title": "Aankh Marey",
       "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
       "album": "Simmba",
       "cover": "artwork/78c64de836.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aap Yahan Aaye Kisliye (From Kal Aaj Aur Kal) (feat. Asha Bhosle).flac",
+      "title": "Aap Yahan Aaye Kisliye (From \"Kal Aaj Aur Kal\") (feat. Asha Bhosle)",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/5971cae27a.jpg",
       "language": "Hindi"
     },
     {
@@ -65,6 +105,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Aayega Aanewala (From Mahal).flac",
+      "title": "Aayega Aanewala (From \"Mahal\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/2b47cc4d67.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/ab agar hum se khuda bhi.mp3",
       "title": "Ab agar hum se khuda bhi",
       "artist": "Ab agar hum se khuda bhi",
@@ -73,11 +121,51 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Abhi Mujh Mein Kahin (From  Agneepath ).mp3",
+      "title": "Abhi Mujh Mein Kahin (From \"Agneepath\")",
+      "artist": "Ajay-Atul, Sonu Nigam",
+      "album": "Sonu Nigam: Best of Me",
+      "cover": "artwork/bd219407fa.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/abhi na jao chhod kar.mp3",
       "title": "Abhi na jao chhod kar",
       "artist": "Abhi na jao chhod kar",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Ae Ajnabi (From  Dil Se ).mp3",
+      "title": "Ae Ajnabi (From \"Dil Se\")",
+      "artist": "Udit Narayan, Mahalakshmi Iyer",
+      "album": "My Best Collection - Udit Narayan",
+      "cover": "artwork/a4eb814711.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Ae Dil Hai Mushkil Title Track (From  Ae Dil Hai Mushkil ).mp3",
+      "title": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\")",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\")",
+      "cover": "artwork/9094fa6207.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Ae Dilruba Dilruba (From Rustam Sohrab).flac",
+      "title": "Ae Dilruba Dilruba (From \"Rustam Sohrab\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/4de801b5be.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Agar Tum Mil Jao - Male Vocals.mp3",
+      "title": "Agar Tum Mil Jao - Male Vocals",
+      "artist": "Udit Narayan",
+      "album": "Zeher (Original Motion Picture Soundtrack)",
+      "cover": "artwork/427b3e5a85.jpg",
       "language": "Hindi"
     },
     {
@@ -137,11 +225,35 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Andaz Mera Mastana (From Dil Apna Aur Preet Parai).flac",
+      "title": "Andaz Mera Mastana (From \"Dil Apna Aur Preet Parai\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/8dce041355.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Ankhiyan Milake (From Nadiya Ke Paar).flac",
+      "title": "Ankhiyan Milake (From \"Nadiya Ke Paar\")",
+      "artist": "Zohrabai Ambalawali",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/a7dfe44d6c.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/ankhiyo ko rahene de.mp3",
       "title": "ankhiyo ko rahene de",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aplam Chaplam (From Azad) (feat. Usha Mangeshkar).flac",
+      "title": "Aplam Chaplam (From \"Azad\") (feat. Usha Mangeshkar)",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/681b348f2e.jpg",
       "language": "Hindi"
     },
     {
@@ -166,6 +278,14 @@
       "artist": "Barsaat ki ek raat",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Apni To Jaise Taise (From  Laawaris ).mp3",
+      "title": "Apni To Jaise Taise (From \"Laawaris\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/3bed54b5f4.jpg",
       "language": "Hindi"
     },
     {
@@ -206,6 +326,30 @@
       "artist": "Atif Aslam",
       "album": "Tiger Zinda Hai (Original)",
       "cover": "artwork/b40a5c0714.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Awaz De Kahan Hai (From Anmol Ghadi).flac",
+      "title": "Awaz De Kahan Hai (From \"Anmol Ghadi\")",
+      "artist": "Noor Jehan, Surendra",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/7b2f9dff84.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aye Malik Tere Bande Hum (From Do Aankhen Bara Haath).flac",
+      "title": "Aye Malik Tere Bande Hum (From \"Do Aankhen Bara Haath\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/d82d263ad3.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Aye Mere Wattan Ke Logo (From Aaye Wattan Tere Liye).flac",
+      "title": "Aye Mere Wattan Ke Logo (From \"Aaye Wattan Tere Liye\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/5e96870bb4.jpg",
       "language": "Hindi"
     },
     {
@@ -305,6 +449,22 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Baghon Mein Bahar Hai (From Aradhana).flac",
+      "title": "Baghon Mein Bahar Hai (From \"Aradhana\")",
+      "artist": "Lata Mangeshkar, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/a970d295b5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Bakhuda Tumhi Ho (From  Kismat Konnection ).mp3",
+      "title": "Bakhuda Tumhi Ho (From \"Kismat Konnection\")",
+      "artist": "Atif Aslam, Alka Yagnik & Arvind Hasabnish, Pritam",
+      "album": "Yours Truly",
+      "cover": "artwork/49607614eb.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/banake kyu bigada re.mp3",
       "title": "banake kyu bigada re",
       "artist": "",
@@ -318,6 +478,38 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Barsaat Mein Humse Mile (From Barsaat).flac",
+      "title": "Barsaat Mein Humse Mile (From \"Barsaat\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/832d116a75.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Barso Re (From  Guru ).mp3",
+      "title": "Barso Re (From \"Guru\")",
+      "artist": "A.R. Rahman, Shreya Ghoshal, Uday Mazumdar",
+      "album": "Best of Bollywood: Shreya Ghoshal",
+      "cover": "artwork/c6e906aaf5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Be Intehaan (From  Race 2 ).mp3",
+      "title": "Be Intehaan (From \"Race 2\")",
+      "artist": "Atif Aslam, Sunidhi Chauhan, Pritam",
+      "album": "Yours Truly",
+      "cover": "artwork/d9c4b6496c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Beedi (From  Omkara ).mp3",
+      "title": "Beedi (From \"Omkara\")",
+      "artist": "Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakravorty, Clinton Cerejo",
+      "album": "Hits of Saif",
+      "cover": "artwork/55ddf96d08.jpg",
       "language": "Hindi"
     },
     {
@@ -353,6 +545,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Bin Tere Sanam (From  Yaara Dildara ).mp3",
+      "title": "Bin Tere Sanam (From \"Yaara Dildara\")",
+      "artist": "Udit Narayan, Kavita Krishnamurthy",
+      "album": "My Best Collection - Udit Narayan",
+      "cover": "artwork/8b80b847ee.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Bohemia, Sidhu Moose Wala - Same Beef.mp3",
       "title": "Same Beef",
       "artist": "Bohemia, Sidhu Moose Wala",
@@ -374,6 +574,30 @@
       "artist": "",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Bole Chudiyan.mp3",
+      "title": "Bole Chudiyan",
+      "artist": "Jatin-Lalit, Amit Kumar, Sonu Nigam, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy",
+      "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+      "cover": "artwork/76625abc1d.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Bolna (From  Kapoor & Sons (Since 1921) ).mp3",
+      "title": "Bolna (From \"Kapoor & Sons (Since 1921)\")",
+      "artist": "Tanishk Bagchi, Arijit Singh, Asees Kaur",
+      "album": "Award Winners 2016 Bollywood",
+      "cover": "artwork/6476b86483.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Bulleya (From  Ae Dil Hai Mushkil ).mp3",
+      "title": "Bulleya (From \"Ae Dil Hai Mushkil\")",
+      "artist": "Pritam, Amit Mishra, Shilpa Rao",
+      "album": "Award Winners 2016 Bollywood",
+      "cover": "artwork/f5ceaaee5d.jpg",
       "language": "Hindi"
     },
     {
@@ -401,11 +625,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Chal Ud Jare Panchhi (From Bhabhi).flac",
+      "title": "Chal Ud Jare Panchhi (From \"Bhabhi\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/7c57113eec.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/chala bhi aa o jaane wale.mp3",
       "title": "Chala bhi aa o jaane wale",
       "artist": "Chala bhi aa o jaane wale",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Chala Jata Hoon (From  Mere Jeevan Saathi ).mp3",
+      "title": "Chala Jata Hoon (From \"Mere Jeevan Saathi\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/70dd44e6fb.jpg",
       "language": "Hindi"
     },
     {
@@ -433,6 +673,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Chali Chali Re Patang (From Bhabhi).flac",
+      "title": "Chali Chali Re Patang (From \"Bhabhi\")",
+      "artist": "Mohd. Rafi, Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/78f9b84cfa.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/chand ki dewar na todi.mp3",
       "title": "chand ki dewar na todi",
       "artist": "",
@@ -457,11 +705,35 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Chanda Re Ja Re Ja Re (From Ziddi).flac",
+      "title": "Chanda Re Ja Re Ja Re (From \"Ziddi\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/383f57db72.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Chashni (From Bharat).mp3",
       "title": "Chashni (From \"Bharat\")",
       "artist": "Abhijeet Srivastava, Vishal-Shekhar",
       "album": "Chashni (From \"Bharat\")",
       "cover": "artwork/4cc1c5225b.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Chhod Babul Ka Ghar (From Babul).flac",
+      "title": "Chhod Babul Ka Ghar (From \"Babul\")",
+      "artist": "Shamshad Begum",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/57abe46913.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Chingari Koi Bhadke.mp3",
+      "title": "Chingari Koi Bhadke",
+      "artist": "Kishore Kumar",
+      "album": "Amar Prem (Original Motion Picture Soundtrack)",
+      "cover": "artwork/aafc470f73.jpg",
       "language": "Hindi"
     },
     {
@@ -481,11 +753,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Chupchup Khade Ho Zaroor Koi Baat Hai (From Bari Behen).flac",
+      "title": "Chupchup Khade Ho Zaroor Koi Baat Hai (From \"Bari Behen\")",
+      "artist": "Lata Mangeshkar, Premlata",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/7190a2f2ed.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/chura liya hai tum ne.mp3",
       "title": "Chura liya hai tum ne",
       "artist": "Chura liya hai tum ne",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Chura Liya Hai Tumne Jo Dil Ko (From  Yaadon Ki Baaraat ).mp3",
+      "title": "Chura Liya Hai Tumne Jo Dil Ko (From \"Yaadon Ki Baaraat\")",
+      "artist": "Asha Bhosle, Mohammed Rafi",
+      "album": "Singing Icon - Asha Bhosle",
+      "cover": "artwork/7b37b995fd.jpg",
       "language": "Hindi"
     },
     {
@@ -513,6 +801,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Dance Basanti (From  Ungli ).mp3",
+      "title": "Dance Basanti (From \"Ungli\")",
+      "artist": "Sachin-Jigar, Vishal Dadlani, Anushka Manchanda",
+      "album": "#Hashmania (Emraan Hashmi's Biggest Hits!)",
+      "cover": "artwork/eccaf9c90b.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/darpan ko dekha.mp3",
       "title": "darpan ko dekha",
       "artist": "",
@@ -526,6 +822,14 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Deewani Mastani (From  Bajirao Mastani ).mp3",
+      "title": "Deewani Mastani (From \"Bajirao Mastani\")",
+      "artist": "Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri",
+      "album": "Bajirao Mastani (Original Motion Picture Soundtrack)",
+      "cover": "artwork/1eef3b0b2b.jpg",
       "language": "Hindi"
     },
     {
@@ -561,6 +865,22 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Dekha Na Haye Re (From  Bombay to Goa ).mp3",
+      "title": "Dekha Na Haye Re (From \"Bombay to Goa\")",
+      "artist": "Kishore Kumar",
+      "album": "One Man Many Roles - Kishore Kumar",
+      "cover": "artwork/9a1b200289.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Dekho Mausam Kya Bahar Hai (From Opera House).flac",
+      "title": "Dekho Mausam Kya Bahar Hai (From \"Opera House\")",
+      "artist": "Lata Mangeshkar, Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/80f1ff440c.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/dheere dheere bol.mp3",
       "title": "dheere dheere bol",
       "artist": "",
@@ -585,11 +905,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Dil Jalta Hai to Jalne De (From Pehli Nazar).flac",
+      "title": "Dil Jalta Hai to Jalne De (From \"Pehli Nazar\")",
+      "artist": "Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/f0b96148ed.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/dil jo na keh skah.mp3",
       "title": "dil jo na keh skah",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Dil Ne Yeh Kaha Hain Dil Se (From  Dhadkan ).mp3",
+      "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "My Best Collection - Udit Narayan",
+      "cover": "artwork/33ac9b38e9.jpg",
       "language": "Hindi"
     },
     {
@@ -614,6 +950,14 @@
       "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
       "album": "Satyameva Jayate",
       "cover": "artwork/b7f721fd47.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/DilENadan Tujhe Hua Kya (From Mirza Ghalib).flac",
+      "title": "DilENadan Tujhe Hua Kya (From \"Mirza Ghalib\")",
+      "artist": "Suraiya, Talat Mahmood",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/f365ee514f.jpg",
       "language": "Hindi"
     },
     {
@@ -657,6 +1001,14 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Din Dhal Jaye Haye (From Guide).flac",
+      "title": "Din Dhal Jaye Haye (From \"Guide\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/938f7ecbe4.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/din dhal jaye.mp3",
       "title": "din dhal jaye",
       "artist": "",
@@ -681,11 +1033,43 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Diwana Mastana Hua Dil (From Bombai Ka Babu).flac",
+      "title": "Diwana Mastana Hua Dil (From \"Bombai Ka Babu\")",
+      "artist": "Mohd. Rafi, Asha Bhosle",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/329bd501fb.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Dol Rahi Hai Naiya Meri (From Shikari).flac",
+      "title": "Dol Rahi Hai Naiya Meri (From \"Shikari\")",
+      "artist": "Ashok Kumar",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/8f46acec8f.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Door Hato Aye Duniyawalo (From Kismat).flac",
+      "title": "Door Hato Aye Duniyawalo (From \"Kismat\")",
+      "artist": "Ameerbai Karnataki, Khan Mastana",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/2b3df30170.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/dost dost na raha.mp3",
       "title": "dost dost na raha",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Dream Girl (From  Dream Girl ).mp3",
+      "title": "Dream Girl (From \"Dream Girl\")",
+      "artist": "Kishore Kumar",
+      "album": "Coffee Aur Kishore",
+      "cover": "artwork/2be5ed83ce.jpg",
       "language": "Hindi"
     },
     {
@@ -702,6 +1086,22 @@
       "artist": "Akhil, Dhvani Bhanushali, Abhijit Vaghani, Bob",
       "album": "Duniyaa (From \"Luka Chuppi\")",
       "cover": "artwork/776739f141.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Eena Meena Deeka (From  Aasha) - Male Vocals.mp3",
+      "title": "Eena Meena Deeka (From \"Aasha) - Male Vocals",
+      "artist": "Kishore Kumar",
+      "album": "One Man Many Roles - Kishore Kumar",
+      "cover": "artwork/d01a0c7420.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Eena Meena Deeka (From Aasha).flac",
+      "title": "Eena Meena Deeka (From \"Aasha\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/3f31186d92.jpg",
       "language": "Hindi"
     },
     {
@@ -729,11 +1129,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Ek Ladki Bheegi Bhagi Si (From  Chalti Ka Naam Gaadi ).mp3",
+      "title": "Ek Ladki Bheegi Bhagi Si (From \"Chalti Ka Naam Gaadi\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/8a8e42a60c.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/ek manzil rahi do.mp3",
       "title": "ek manzil rahi do",
       "artist": "",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Ek Pal Ka Jeena.mp3",
+      "title": "Ek Pal Ka Jeena",
+      "artist": "Lucky Ali",
+      "album": "Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack)",
+      "cover": "artwork/1851a08063.jpg",
       "language": "Hindi"
     },
     {
@@ -761,11 +1177,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Enna Sona (From  OK Jaanu ).mp3",
+      "title": "Enna Sona (From \"OK Jaanu\")",
+      "artist": "A.R. Rahman, Arijit Singh",
+      "album": "Enna Sona (From \"OK Jaanu\")",
+      "cover": "artwork/67f597559c.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/First Class.mp3",
       "title": "First Class",
       "artist": "Arijit Singh, Neeti Mohan",
       "album": "Kalank",
       "cover": "artwork/795467f347.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Galliyan (From  Ek Villain ).mp3",
+      "title": "Galliyan (From \"Ek Villain\")",
+      "artist": "Ankit Tiwari",
+      "album": "Best Of Shraddha Kapoor",
+      "cover": "artwork/86804707c9.jpg",
       "language": "Hindi"
     },
     {
@@ -913,6 +1345,14 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Hai Mera Dil (From  Josh ).mp3",
+      "title": "Hai Mera Dil (From \"Josh\")",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "album": "Bollywood Melody Queen (Alka Yagnik)",
+      "cover": "artwork/5d1086aded.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/ham the jinke sahare.mp3",
       "title": "ham the jinke sahare",
       "artist": "",
@@ -985,11 +1425,51 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Hua Hain Aaj Pehli Baar (From  Sanam Re ).mp3",
+      "title": "Hua Hain Aaj Pehli Baar (From \"Sanam Re\")",
+      "artist": "Amaal Mallik, Armaan Malik, Palak Muchhal",
+      "album": "Shinning Star - Armaan Malik",
+      "cover": "artwork/7a4d959762.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Hum Apne Dil Ka Fasana (From Actress).flac",
+      "title": "Hum Apne Dil Ka Fasana (From \"Actress\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/0a5a6830b5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Hum Bhi Hain Tum Bhi Ho (From Jis Desh Men Ganga Behti Hai).flac",
+      "title": "Hum Bhi Hain Tum Bhi Ho (From \"Jis Desh Men Ganga Behti Hai\")",
+      "artist": "Lata Mangeshkar, Geeta Dutt, Mukesh, Manna Dey, Mahendra Kapoor",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/c37b1f552e.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/hum intezar karenge.mp3",
       "title": "hum intezar karenge",
       "artist": "hum intezar karenge",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Hum KO Man Ki Shakti Dena (From Guddi).flac",
+      "title": "Hum KO Man Ki Shakti Dena (From \"Guddi\")",
+      "artist": "Vani Jairam",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/3fefdc65bb.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Hum the Woh Thi (From Chalti Ka Naam Gaadi).flac",
+      "title": "Hum the Woh Thi (From \"Chalti Ka Naam Gaadi\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/dc2606318a.jpg",
       "language": "Hindi"
     },
     {
@@ -1025,6 +1505,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Humsafar (From  Badrinath Ki Dulhania ).mp3",
+      "title": "Humsafar (From \"Badrinath Ki Dulhania\")",
+      "artist": "Akhil Sachdeva, Mansheel Gujral",
+      "album": "Best Of Akhil Sachdeva",
+      "cover": "artwork/5c19fbc354.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/humse to achi teri payal gori.mp3",
       "title": "HUMSE TO ACHI TERI PAYAL G",
       "artist": "HUMSE TO ACHI TERI PAYAL G",
@@ -1038,6 +1526,14 @@
       "artist": "Meet Bros., Palak Muchhal, Altamash Faridi",
       "album": "Dream Girl",
       "cover": "artwork/f1ba898ee8.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Iktara.mp3",
+      "title": "Iktara",
+      "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+      "album": "Wake Up Sid (Original Motion Picture Soundtrack)",
+      "cover": "artwork/bb20694cf6.jpg",
       "language": "Hindi"
     },
     {
@@ -1089,11 +1585,59 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Ishq Wala Love.mp3",
+      "title": "Ishq Wala Love",
+      "artist": "Vishal-Shekhar, Salim Merchant, Neeti Mohan, Shekhar Ravjiani",
+      "album": "Student of the Year (Original Motion Picture Soundtrack)",
+      "cover": "artwork/bdfec3a4a5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/It's the Time to Disco.mp3",
+      "title": "It's the Time to Disco",
+      "artist": "Shankar-Ehsaan-Loy, Vasundhara Das, KK, Shaan, Loy Mendonsa",
+      "album": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+      "cover": "artwork/a482b01985.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jaag DardEIshq Jaag (From Anarkali).flac",
+      "title": "Jaag DardEIshq Jaag (From \"Anarkali\")",
+      "artist": "Hemant Kumar, Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/f44ba873d8.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jaanu Jaanu Ri (From Insaan Jaag Utha).flac",
+      "title": "Jaanu Jaanu Ri (From \"Insaan Jaag Utha\")",
+      "artist": "Asha Bhosle, Geeta Dutt",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/f0e0cd4707.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/jab bhi jee chahe.mp3",
       "title": "jab bhi jee chahe",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jab Mila Tu.mp3",
+      "title": "Jab Mila Tu",
+      "artist": "Vishal-Shekhar, Vishal Dadlani",
+      "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "cover": "artwork/d66da07520.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jai Ho! (You Are My Destiny).mp3",
+      "title": "Jai Ho! (You Are My Destiny)",
+      "artist": "A.R. Rahman, The Pussycat Dolls, Nicole Scherzinger",
+      "album": "Jai Ho! (You Are My Destiny)",
+      "cover": "artwork/b2f1d73382.jpg",
       "language": "Hindi"
     },
     {
@@ -1185,6 +1729,38 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Jayen to Jayen Kahan (From Taxi Driver).flac",
+      "title": "Jayen to Jayen Kahan (From \"Taxi Driver\")",
+      "artist": "Talat Mahmood",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/b7562e3ed5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jeena Jeena (From  Badlapur ).mp3",
+      "title": "Jeena Jeena (From \"Badlapur\")",
+      "artist": "Atif Aslam",
+      "album": "Jeena Jeena (From \"Badlapur\")",
+      "cover": "artwork/7cefb0a642.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jeene Laga Hoon (From  Ramaiya Vastavaiya ).mp3",
+      "title": "Jeene Laga Hoon (From \"Ramaiya Vastavaiya\")",
+      "artist": "Atif Aslam, Shreya Ghoshal",
+      "album": "Ramaiya Vastavaiya (Original Motion Picture Soundtrack)",
+      "cover": "artwork/ec4ed3084c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Jeevan Ke Safar Mein Rahi (From Munimji).flac",
+      "title": "Jeevan Ke Safar Mein Rahi (From \"Munimji\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/52205945ec.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/jhil mil sitaron ka.mp3",
       "title": "jhil mil sitaron ka",
       "artist": "jhil mil sitaron ka",
@@ -1225,6 +1801,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Jiya Beqarar Hai (From Barsaat).flac",
+      "title": "Jiya Beqarar Hai (From \"Barsaat\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/427205975b.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/jo pyar tumne.mp3",
       "title": "jo pyar tumne",
       "artist": "",
@@ -1257,6 +1841,14 @@
       "language": "Punjabi"
     },
     {
+      "src": "music/Judaai (From  Badlapur).mp3",
+      "title": "Judaai (From \"Badlapur)",
+      "artist": "Rekha Bhardwaj, Arijit Singh",
+      "album": "Badlapur (Original Motion Picture Soundtrack)",
+      "cover": "artwork/de1deb8534.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Jugraafiya.mp3",
       "title": "Jugraafiya",
       "artist": "Udit Narayan, Shreya Ghoshal",
@@ -1281,6 +1873,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Kabhi Khushi Kabhie Gham.mp3",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "artist": "Jatin-Lalit, Lata Mangeshkar",
+      "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+      "cover": "artwork/aeb1ced023.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/kabhi raat din hum.mp3",
       "title": "Kabhi raat din hum",
       "artist": "Kabhi raat din hum",
@@ -1294,6 +1894,22 @@
       "artist": "kabhi tera daaman na",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kah Do Koi Na Kare Yahan Pyar (From Goonj Uthi Shehnai).flac",
+      "title": "Kah Do Koi Na Kare Yahan Pyar (From \"Goonj Uthi Shehnai\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/a673e15532.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kahe Karta Der Barati (From Aurat).flac",
+      "title": "Kahe Karta Der Barati (From \"Aurat\")",
+      "artist": "Anil Biswas",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/1a6b78dc70.jpg",
       "language": "Hindi"
     },
     {
@@ -1342,6 +1958,14 @@
       "artist": "Hare Rama Hare Krishna",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kar Gayi Chull (From  Kapoor & Sons (Since 1921) ).mp3",
+      "title": "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
+      "artist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "album": "Award Winners 2016 Bollywood",
+      "cover": "artwork/255106e0a3.jpg",
       "language": "Hindi"
     },
     {
@@ -1417,6 +2041,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Khaike Paan Banaras Wala.mp3",
+      "title": "Khaike Paan Banaras Wala",
+      "artist": "Kishore Kumar",
+      "album": "Don (Original Motion Picture Soundtrack)",
+      "cover": "artwork/5b802ca1e7.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/khakar tune paan.mp3",
       "title": "khakar tune paan",
       "artist": "khakar tune paan",
@@ -1441,6 +2073,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Kitna Haseen Hain Mausam (From Azad).flac",
+      "title": "Kitna Haseen Hain Mausam (From \"Azad\")",
+      "artist": "Lata Mangeshkar, Chitalkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/8a2502a2e8.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/kitna pyara wada.mp3",
       "title": "kitna pyara wada carvan",
       "artist": "kitna pyara wada carvan",
@@ -1454,6 +2094,14 @@
       "artist": "DIVINE",
       "album": "Kohinoor",
       "cover": "artwork/4d4aee1a4c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Koi Humdum Na Raha (From Jhumroo).flac",
+      "title": "Koi Humdum Na Raha (From \"Jhumroo\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/937f95477b.jpg",
       "language": "Hindi"
     },
     {
@@ -1489,6 +2137,30 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Kuch Is Tarah (From  Doorie ).mp3",
+      "title": "Kuch Is Tarah (From \"Doorie\")",
+      "artist": "Atif Aslam, Mithoon",
+      "album": "Yours Truly",
+      "cover": "artwork/6fd4ee35c1.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kuch Kuch Hota Hai.mp3",
+      "title": "Kuch Kuch Hota Hai",
+      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
+      "cover": "artwork/2c5c6142f0.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kuchh Aur Zamana Kehta Hai (From Chhoti Chhoti Baaten).flac",
+      "title": "Kuchh Aur Zamana Kehta Hai (From \"Chhoti Chhoti Baaten\")",
+      "artist": "Meena Kapoor",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/ef5ca19975.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/kutch kehta hai yeh sawan.mp3",
       "title": "kutch kehta hai yeh sawan",
       "artist": "kutch kehta hai yeh sawan",
@@ -1502,6 +2174,14 @@
       "artist": "Kya dekhte ho",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Kya Karoon .mp3",
+      "title": "Kya Karoon?",
+      "artist": "Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa",
+      "album": "Wake Up Sid (Original Motion Picture Soundtrack)",
+      "cover": "artwork/b65b74126a.jpg",
       "language": "Hindi"
     },
     {
@@ -1529,6 +2209,22 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Lakhon Tare Aasman Per (From Hariyali Aur Rasta).flac",
+      "title": "Lakhon Tare Aasman Per (From \"Hariyali Aur Rasta\")",
+      "artist": "Lata Mangeshkar, Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/e4d4b9d665.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Laut Ke Aaja Mere Meet (From Rani Rupmati).flac",
+      "title": "Laut Ke Aaja Mere Meet (From \"Rani Rupmati\")",
+      "artist": "Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/f5414e1f22.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/laut ke aaja mere meet.mp3",
       "title": "laut ke aaja mere meet",
       "artist": "",
@@ -1545,11 +2241,107 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Loote Koi Man Ka Nagar (From Abhimaan).flac",
+      "title": "Loote Koi Man Ka Nagar (From \"Abhimaan\")",
+      "artist": "Lata Mangeshkar, Manhar Udhas",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/0d767ff615.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Love You Zindagi - Club Mix.mp3",
+      "title": "Love You Zindagi - Club Mix",
+      "artist": "Amit Trivedi, Alia Bhatt",
+      "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+      "cover": "artwork/b6e0445bed.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Love You Zindagi.mp3",
+      "title": "Love You Zindagi",
+      "artist": "Amit Trivedi, Jasleen Royal",
+      "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+      "cover": "artwork/3900b1e73e.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Luka Chuppi.mp3",
+      "title": "Luka Chuppi",
+      "artist": "A.R. Rahman, Lata Mangeshkar",
+      "album": "Rang De Basanti (Original Motion Picture Soundtrack)",
+      "cover": "artwork/987c77b3f6.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Maa Tujhe Salaam - Live.mp3",
+      "title": "Maa Tujhe Salaam - Live",
+      "artist": "A.R. Rahman",
+      "album": "Vande Mataram",
+      "cover": "artwork/c3bfa0c03a.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Maahi Ve.mp3",
+      "title": "Maahi Ve",
+      "artist": "Shankar-Ehsaan-Loy, Sadhana Sargam, Sujata Bhattacharya, Udit Narayan, Sonu Nigam",
+      "album": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+      "cover": "artwork/1dead4d25c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Maan Mera Ehsan Are Nadaan (From Aan).flac",
+      "title": "Maan Mera Ehsan Are Nadaan (From \"Aan\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/13bc588db7.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/maang ke saath tumhara.mp3",
       "title": "Maang ke saath tumhara",
       "artist": "Maang ke saath tumhara",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Madari.mp3",
+      "title": "Madari",
+      "artist": "Clinton Cerejo, Vishal Dadlani, Sonu Kakkar",
+      "album": "Best of Coke Studio @ MTV Season, 2",
+      "cover": "artwork/4352426fde.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Madhuban Mein Radhika Nache Re (From Kohinoor).flac",
+      "title": "Madhuban Mein Radhika Nache Re (From \"Kohinoor\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/247df07ad5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Main Ban Ki Chidiya Banke (From Achhut Kanya).flac",
+      "title": "Main Ban Ki Chidiya Banke (From \"Achhut Kanya\")",
+      "artist": "Devika Rani, Ashok Kumar",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/eebbc2a8d0.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Main Jahaan Rahoon (From  Namastey London ).mp3",
+      "title": "Main Jahaan Rahoon (From \"Namastey London\")",
+      "artist": "Rahat Fateh Ali Khan",
+      "album": "Namastey London",
+      "cover": "artwork/e6111540ef.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Main Rang Sharbaton Ka (From  Phata Poster Nikhla Hero ).mp3",
+      "title": "Main Rang Sharbaton Ka (From \"Phata Poster Nikhla Hero\")",
+      "artist": "Atif Aslam, Chinmayi, Pritam",
+      "album": "Phata Poster Nikhla Hero (Original Motion Picture Soundtrack)",
+      "cover": "artwork/3efa47e12d.jpg",
       "language": "Hindi"
     },
     {
@@ -1577,6 +2369,22 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Man Tarpat Hari Darsan KO Aaj (From Baiju Bawra).flac",
+      "title": "Man Tarpat Hari Darsan KO Aaj (From \"Baiju Bawra\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/c4c65d863c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mana Janab Ne Pukara Nahin (From  Paying Guest ).mp3",
+      "title": "Mana Janab Ne Pukara Nahin (From \"Paying Guest\")",
+      "artist": "Kishore Kumar",
+      "album": "Master Musician S. D. Burman",
+      "cover": "artwork/9cf36f382a.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Maninder Buttar - Ik Tera.mp3",
       "title": "Ik Tera",
       "artist": "Maninder Buttar",
@@ -1591,6 +2399,14 @@
       "album": "Sakhiyaan",
       "cover": "artwork/e94e2bd67d.jpg",
       "language": "Punjabi"
+    },
+    {
+      "src": "music/Manja.mp3",
+      "title": "Manja",
+      "artist": "Amit Trivedi",
+      "album": "Celebrate Kai Po Che (Original Motion Picture Soundtrack)",
+      "cover": "artwork/38a1f5b071.jpg",
+      "language": "Hindi"
     },
     {
       "src": "music/Mankirt Aulakh - Kamli.mp3",
@@ -1614,6 +2430,22 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Masti Ki Paathshala.mp3",
+      "title": "Masti Ki Paathshala",
+      "artist": "A.R. Rahman, Naresh Iyer, Mohammed Aslam",
+      "album": "Rang De Basanti (Original Motion Picture Soundtrack)",
+      "cover": "artwork/456b4ff0bd.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Maula Mere Maula.mp3",
+      "title": "Maula Mere Maula",
+      "artist": "Roop Kumar Rathod",
+      "album": "Anwar (Original Motion Picture Soundtrack)",
+      "cover": "artwork/2ba29f177a.jpg",
       "language": "Hindi"
     },
     {
@@ -1665,6 +2497,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Mera Sundar Sapna Beet Gaya (From Do Bhai).flac",
+      "title": "Mera Sundar Sapna Beet Gaya (From \"Do Bhai\")",
+      "artist": "Geeta Dutt",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/2ec57c7fc3.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/mere dil mein aaj kya hai.mp3",
       "title": "mere dil mein aaj kya hai",
       "artist": "",
@@ -1681,11 +2521,59 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Mere Jeevan Saathi (From Ek Duje Ke Liye).flac",
+      "title": "Mere Jeevan Saathi (From \"Ek Duje Ke Liye\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/f117a5fb8a.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mere Man Ka Bawra Panchhi (From Amar Deep).flac",
+      "title": "Mere Man Ka Bawra Panchhi (From \"Amar Deep\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/da0c95a93c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mere Mehboob Tujhe Meri Muhabbat (From Mere Mehboob).flac",
+      "title": "Mere Mehboob Tujhe Meri Muhabbat (From \"Mere Mehboob\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/4081aefe0a.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/mere naina.mp3",
       "title": "mere naina",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mere Pairon Mein Ghunghroo (From Sanghursh).flac",
+      "title": "Mere Pairon Mein Ghunghroo (From \"Sanghursh\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/c43b948574.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mere Piya Gaye Rangoon (From Patanga).flac",
+      "title": "Mere Piya Gaye Rangoon (From \"Patanga\")",
+      "artist": "Shamshad Begum, Chitalkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/c8d466b2e3.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mere Samnewali Khidki Mein (From  Padosan ).mp3",
+      "title": "Mere Samnewali Khidki Mein (From \"Padosan\")",
+      "artist": "Kishore Kumar",
+      "album": "Coffee Aur Kishore",
+      "cover": "artwork/22722fa985.jpg",
       "language": "Hindi"
     },
     {
@@ -1745,6 +2633,30 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Mitwa.mp3",
+      "title": "Mitwa",
+      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+      "album": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+      "cover": "artwork/a9c0da4bc5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mohabbat Zinda Rahti Hai (From Changis Khan).flac",
+      "title": "Mohabbat Zinda Rahti Hai (From \"Changis Khan\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/5ebf27763e.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Mohe Bhool Gaye Sanwariya (From Baiju Bawra).flac",
+      "title": "Mohe Bhool Gaye Sanwariya (From \"Baiju Bawra\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/8378fad16a.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Morni Banke (From Badhaai Ho).mp3",
       "title": "Morni Banke (From \"Badhaai Ho\")",
       "artist": "Guru Randhawa, Neha Kakkar",
@@ -1793,6 +2705,22 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Mujhe Tum Mil Gaye Humdum (From Love in Tokyo).flac",
+      "title": "Mujhe Tum Mil Gaye Humdum (From \"Love in Tokyo\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/2bbfbd2d85.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Muskurane (From  Citylights ) - Romantic.mp3",
+      "title": "Muskurane (From \"Citylights\") - Romantic",
+      "artist": "Jeet Gannguli, Arijit Singh",
+      "album": "Yours Truly Arijit",
+      "cover": "artwork/b1db6b64c8.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/na ja mere hamdam.mp3",
       "title": "na ja mere hamdam",
       "artist": "",
@@ -1825,11 +2753,43 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Na Tum Jano Na Hum.mp3",
+      "title": "Na Tum Jano Na Hum",
+      "artist": "Lucky Ali, Ramya",
+      "album": "Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack)",
+      "cover": "artwork/56e750fcdb.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Naach Meri Jaan (From  Tubelight ).mp3",
+      "title": "Naach Meri Jaan (From \"Tubelight\")",
+      "artist": "Pritam, Kamaal Khan, Nakash Aziz, Dev Negi, TUSHAR JOSHI",
+      "album": "Naach Meri Jaan (From \"Tubelight\")",
+      "cover": "artwork/5ee5358c64.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/nadiya se dariya.mp3",
       "title": "nadiya se dariya",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Nagada Sang Dhol.mp3",
+      "title": "Nagada Sang Dhol",
+      "artist": "Shreya Ghoshal, Osman Mir",
+      "album": "Ram-Leela (Original Motion Picture Soundtrack)",
+      "cover": "artwork/4b9664ed83.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Nain Se Nain (From Jhanak Jhanak Payal Baje).flac",
+      "title": "Nain Se Nain (From \"Jhanak Jhanak Payal Baje\")",
+      "artist": "Lata Mangeshkar, Hemant Kumar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/32823e46e9.jpg",
       "language": "Hindi"
     },
     {
@@ -1841,11 +2801,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Naina Lad Jaihen (From Gunga Jumna).flac",
+      "title": "Naina Lad Jaihen (From \"Gunga Jumna\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/07e75c1aba.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/naino mein badra cahye.mp3",
       "title": "naino mein badra cahye",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Nakhrewali (From New Delhi).flac",
+      "title": "Nakhrewali (From \"New Delhi\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/bb7824a894.jpg",
       "language": "Hindi"
     },
     {
@@ -1878,6 +2854,14 @@
       "artist": "neel gagan pe udte badal",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Neele Neele Ambar Par - Male Version.mp3",
+      "title": "Neele Neele Ambar Par - Male Version",
+      "artist": "Kalyanji-Anandji, Kishore Kumar",
+      "album": "Kalaakaar (Original Motion Picture Soundtrack)",
+      "cover": "artwork/72a8121c7b.jpg",
       "language": "Hindi"
     },
     {
@@ -1921,6 +2905,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/O Mere Dil Ke Chain (From  Mere Jeevan Saathi ).mp3",
+      "title": "O Mere Dil Ke Chain (From \"Mere Jeevan Saathi\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/d7468e530d.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/o mere sona.mp3",
       "title": "O mere sona",
       "artist": "O mere sona",
@@ -1950,6 +2942,14 @@
       "artist": "",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Pa Lagoon Kar Jori Re Shyam (From Aapki Sewa Mein).flac",
+      "title": "Pa Lagoon Kar Jori Re Shyam (From \"Aapki Sewa Mein\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/2533592eb7.jpg",
       "language": "Hindi"
     },
     {
@@ -1998,6 +2998,14 @@
       "artist": "panchi re o panchi",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Pani Da Rang Male (From  Vicky Donor ).mp3",
+      "title": "Pani Da Rang Male (From \"Vicky Donor\")",
+      "artist": "Ayushmann Khurrana",
+      "album": "Manu Loves",
+      "cover": "artwork/6cbb8c3ba2.jpg",
       "language": "Hindi"
     },
     {
@@ -2073,6 +3081,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Pehli Nazar Mein (From  Race ).mp3",
+      "title": "Pehli Nazar Mein (From \"Race\")",
+      "artist": "Atif Aslam",
+      "album": "Atif Hit Story",
+      "cover": "artwork/8cf0a6a43d.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/phool aahista pheko.mp3",
       "title": "phool aahista pheko",
       "artist": "",
@@ -2105,6 +3121,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Piya Milan KO Jana (From Kapal Kundala).flac",
+      "title": "Piya Milan KO Jana (From \"Kapal Kundala\")",
+      "artist": "Pankaj Mullick",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/ce8f7930e0.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/prabat ke peechhe.mp3",
       "title": "Prabat ke peechhe",
       "artist": "Mehbooba",
@@ -2129,11 +3153,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Pyar Diwana Hota Hai (From  Kati Patang ).mp3",
+      "title": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/e7908e8d7e.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/pyar diwana.mp3",
       "title": "pyar diwana",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Pyar Hua Iqrar Hua (From  Shree 420 ).mp3",
+      "title": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+      "artist": "Manna Dey, Lata Mangeshkar",
+      "album": "Diamonds Forever - Lata Mangeshkar",
+      "cover": "artwork/f84bce12a4.jpg",
       "language": "Hindi"
     },
     {
@@ -2161,11 +3201,51 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Raat Akeli Hai Bujh Gaye Die (From Jewel Thief).flac",
+      "title": "Raat Akeli Hai Bujh Gaye Die (From \"Jewel Thief\")",
+      "artist": "Asha Bhosle",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/d093a80f4c.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/raat kali ek khawb mein.mp3",
       "title": "raat kali ek khawb mein",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Raat Ke Hamsafar (From An Evening in Paris).flac",
+      "title": "Raat Ke Hamsafar (From \"An Evening in Paris\")",
+      "artist": "Asha Bhosle, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/7e9227414e.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Radha Kaise Na Jale.mp3",
+      "title": "Radha Kaise Na Jale",
+      "artist": "A.R. Rahman, Asha Bhosle, Udit Narayan, Vaishali Samant",
+      "album": "Lagaan (Original Motion Picture Soundtrack)",
+      "cover": "artwork/f04659d347.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Radha.mp3",
+      "title": "Radha",
+      "artist": "Vishal-Shekhar, Shreya Ghoshal, Udit Narayan, Vishal Dadlani, Shekhar Ravjiani",
+      "album": "Student of the Year (Original Motion Picture Soundtrack)",
+      "cover": "artwork/34fd14d9b1.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Rail Gaadi (From Aashirwad).flac",
+      "title": "Rail Gaadi (From \"Aashirwad\")",
+      "artist": "Ashok Kumar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/afa41f7a86.jpg",
       "language": "Hindi"
     },
     {
@@ -2177,12 +3257,28 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Ramaiya Vastavaiya (From Shree 420).flac",
+      "title": "Ramaiya Vastavaiya (From \"Shree 420\")",
+      "artist": "Lata Mangeshkar, Mohd. Rafi, Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/c65b20b0aa.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/rang aur noor ki barat.mp3",
       "title": "rang aur noor ki barat",
       "artist": "",
       "album": "",
       "cover": "",
       "language": "Hindi"
+    },
+    {
+      "src": "music/Rang De Basanti.mp3",
+      "title": "Rang De Basanti",
+      "artist": "A.R. Rahman, Daler Mehndi, K. S. Chithra",
+      "album": "Rang De Basanti (Original Motion Picture Soundtrack)",
+      "cover": "artwork/9b63581626.jpg",
+      "language": "Punjabi"
     },
     {
       "src": "music/rangeela re.mp3",
@@ -2198,6 +3294,14 @@
       "artist": "Ravneet Singh, Vee",
       "album": "Laung Gawacha",
       "cover": "artwork/79ff8c3254.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Rehnaa Hai Tere Dil Mein.mp3",
+      "title": "Rehnaa Hai Tere Dil Mein",
+      "artist": "Sonu Nigam, Kavita Krishnamurthy",
+      "album": "Rehnaa Hai Terre Dil Mein (Original Motion Picture Soundtrack)",
+      "cover": "artwork/6078a4049a.jpg",
       "language": "Hindi"
     },
     {
@@ -2265,11 +3369,35 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Sab Tera (From  Baaghi ).mp3",
+      "title": "Sab Tera (From \"Baaghi\")",
+      "artist": "Armaan Malik, Shraddha Kapoor",
+      "album": "Shinning Star - Armaan Malik",
+      "cover": "artwork/aa02da76f0.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Sachiya Mohabbatan (From Arjun Patiala).mp3",
       "title": "Sachiya Mohabbatan (From \"Arjun Patiala\")",
       "artist": "Sachet Tandon, Sachin-Jigar",
       "album": "Sachiya Mohabbatan (From \"Arjun Patiala\")",
       "cover": "artwork/9ba0d1a8f3.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Sadka.mp3",
+      "title": "Sadka",
+      "artist": "Vishal-Shekhar, Suraj Jagan, Mahalakshmi Iyer",
+      "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "cover": "artwork/6d64187b16.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Saiyyan.mp3",
+      "title": "Saiyyan",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "album": "Kailasa Jhoomo Re",
+      "cover": "artwork/7ea7ad4c74.jpg",
       "language": "Hindi"
     },
     {
@@ -2289,11 +3417,51 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Samjhawan (From  Humpty Sharma Ki Dulhania ).mp3",
+      "title": "Samjhawan (From \"Humpty Sharma Ki Dulhania\")",
+      "artist": "Jawad Ahmad, Sharib Toshi, Arijit Singh, Shreya Ghoshal",
+      "album": "Yours Truly Arijit",
+      "cover": "artwork/995b4ef862.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Samjhawan (Unplugged by Alia Bhatt) [From  Humpty Sharma Ki Dulhania ].mp3",
+      "title": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "artist": "Jawad Ahmad, Sharib Toshi, Alia Bhatt",
+      "album": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "cover": "artwork/d4fdbcb413.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Sapna Jahan (From  Brothers ).mp3",
+      "title": "Sapna Jahan (From \"Brothers\")",
+      "artist": "Ajay-Atul, Sonu Nigam, Neeti Mohan",
+      "album": "Sapna Jahan (From \"Brothers\")",
+      "cover": "artwork/4484b8fc96.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/sar par topi.mp3",
       "title": "Sar par topi",
       "artist": "Sar par topi",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Saranga Teri Yaad Mein (From Saranga).flac",
+      "title": "Saranga Teri Yaad Mein (From \"Saranga\")",
+      "artist": "Mukesh",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/8791ad0401.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Satarangi Re (From  Dil Se ).mp3",
+      "title": "Satarangi Re (From \"Dil Se\")",
+      "artist": "Sonu Nigam, Kavita Krishnamurthy",
+      "album": "Bollywood's Musical Extravaganza - Sonu Nigam & Sukhwinder Singh",
+      "cover": "artwork/fc2bdaff37.jpg",
       "language": "Hindi"
     },
     {
@@ -2313,6 +3481,30 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Say  Shava Shava .mp3",
+      "title": "Say \"Shava Shava\"",
+      "artist": "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Sunidhi Chauhan, Amitabh Bachchan, Udit Narayan",
+      "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+      "cover": "artwork/35720490c6.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Second Hand Jawaani (From  Cocktail ).mp3",
+      "title": "Second Hand Jawaani (From \"Cocktail\")",
+      "artist": "Miss Pooja, Neha Kakkar, Nakash Aziz",
+      "album": "Tanu Likes",
+      "cover": "artwork/6748d20e2f.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Seene Mein Sulagte Hai Armaan (From Tarana).flac",
+      "title": "Seene Mein Sulagte Hai Armaan (From \"Tarana\")",
+      "artist": "Lata Mangeshkar, Talat Mahmood",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/d12f7fdeb4.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Shaitan Ka Saala (From Housefull 4).mp3",
       "title": "Shaitan Ka Saala (From \"Housefull 4\")",
       "artist": "Sohail Sen, Vishal Dadlani",
@@ -2321,11 +3513,51 @@
       "language": "Hindi"
     },
     {
+      "src": "music/ShamEBahar Aai Karke Singaa (From Shama Parwana).flac",
+      "title": "ShamEBahar Aai Karke Singaa (From \"Shama Parwana\")",
+      "artist": "Suraiya, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/6267c811a1.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Sheher Ki Ladki.mp3",
       "title": "Sheher Ki Ladki",
       "artist": "Badshah, Tulsi Kumar, Abhijeet, Chandra Dixit",
       "album": "Khandaani Shafakhana",
       "cover": "artwork/db0e9fca50.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Shokhiyon Mein Ghola Jaye (From Prem Pujari).flac",
+      "title": "Shokhiyon Mein Ghola Jaye (From \"Prem Pujari\")",
+      "artist": "Lata Mangeshkar, Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/3c33281136.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Shola Jo Bhadke (From Albela).flac",
+      "title": "Shola Jo Bhadke (From \"Albela\")",
+      "artist": "Lata Mangeshkar, Chitalkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/d60107bd9a.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Shubhaarambh.mp3",
+      "title": "Shubhaarambh",
+      "artist": "Amit Trivedi, Shruti Pathak, Divya Kumar",
+      "album": "Celebrate Kai Po Che (Original Motion Picture Soundtrack)",
+      "cover": "artwork/739f190662.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Shukran Allah (From  Kurbaan ).mp3",
+      "title": "Shukran Allah (From \"Kurbaan\")",
+      "artist": "Salim–Sulaiman, Sonu Nigam, Shreya Ghoshal, Salim Merchant",
+      "album": "Sonu Nigam: Best of Me",
+      "cover": "artwork/3bbc73fbf4.jpg",
       "language": "Hindi"
     },
     {
@@ -2393,6 +3625,22 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Soniyo.mp3",
+      "title": "Soniyo",
+      "artist": "Raju Singh, Sonu Nigam, Shreya Ghoshal",
+      "album": "RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)",
+      "cover": "artwork/41b9935d9c.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Suhani Raat Dhal Chuki (From Dulari).flac",
+      "title": "Suhani Raat Dhal Chuki (From \"Dulari\")",
+      "artist": "Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/6afb48f557.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Sukh-E Muzical Doctorz - Coka.mp3",
       "title": "Coka",
       "artist": "Sukh-E Muzical Doctorz",
@@ -2414,6 +3662,38 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Suraj Hua Maddham (From  Kabhi Khushi Kabhie Gham ).mp3",
+      "title": "Suraj Hua Maddham (From \"Kabhi Khushi Kabhie Gham\")",
+      "artist": "Sandesh Shandilya, Sonu Nigam, Alka Yagnik",
+      "album": "Sonu Nigam: Best of Me",
+      "cover": "artwork/2f127ee163.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Surili Akhiyon Wale (From  Veer ).mp3",
+      "title": "Surili Akhiyon Wale (From \"Veer\")",
+      "artist": "Rahat Fateh Ali Khan, Suzanne D'Mello",
+      "album": "Manu Loves",
+      "cover": "artwork/1fc581aed6.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tadap Yeh Din Raat Ki (From Amrapali).flac",
+      "title": "Tadap Yeh Din Raat Ki (From \"Amrapali\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/b1acb47b51.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tadbeer Se Bigdi Huyi Taqdeer (From Baazi).flac",
+      "title": "Tadbeer Se Bigdi Huyi Taqdeer (From \"Baazi\")",
+      "artist": "Geeta Dutt",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/a4707f32e2.jpg",
       "language": "Hindi"
     },
     {
@@ -2446,6 +3726,14 @@
       "artist": "Akhil Sachdeva, Tulsi Kumar",
       "album": "Kabir Singh",
       "cover": "artwork/3e40acc608.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tera Hone Laga Hoon (From  Ajab Prem Ki Ghazab Kahani ).mp3",
+      "title": "Tera Hone Laga Hoon (From \"Ajab Prem Ki Ghazab Kahani\")",
+      "artist": "Atif Aslam, Alisha Chinai, Pritam",
+      "album": "Yours Truly",
+      "cover": "artwork/629a115e10.jpg",
       "language": "Hindi"
     },
     {
@@ -2561,11 +3849,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Teri Deewani (From  Kailasa ).mp3",
+      "title": "Teri Deewani (From \"Kailasa\")",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "album": "Bollywood: the Holiday Album",
+      "cover": "artwork/e0ef49b5a9.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/teri duniya se.mp3",
       "title": "teri duniya se",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Teri Mehfil Mein Kismat Azmakar (From Mughal-e-Azam).flac",
+      "title": "Teri Mehfil Mein Kismat Azmakar (From \"Mughal-e-Azam\")",
+      "artist": "Lata Mangeshkar, Shamshad Begum",
+      "album": "Years of Hindi Film Music, Vol. 3",
+      "cover": "artwork/99f1e0e4c2.jpg",
       "language": "Hindi"
     },
     {
@@ -2582,6 +3886,14 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Thare Rahiyo O Banke Yaar (From Pakeezah).flac",
+      "title": "Thare Rahiyo O Banke Yaar (From \"Pakeezah\")",
+      "artist": "Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/e31fd6c130.jpg",
       "language": "Hindi"
     },
     {
@@ -2633,6 +3945,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Tip Tip Barsa Paani (From  Mohra ).mp3",
+      "title": "Tip Tip Barsa Paani (From \"Mohra\")",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Musical Delight",
+      "cover": "artwork/902d203bc8.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/title song.mp3",
       "title": "title song",
       "artist": "",
@@ -2646,6 +3966,38 @@
       "artist": "FAkris",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tu Cheez Badi Hain (From  Mohra ).mp3",
+      "title": "Tu Cheez Badi Hain (From \"Mohra\")",
+      "artist": "Udit Narayan, Kavita Krishnamurthy",
+      "album": "My Best Collection - Udit Narayan",
+      "cover": "artwork/472ffbadb5.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tu Chhupi Hai Kahan (From Navrang).flac",
+      "title": "Tu Chhupi Hai Kahan (From \"Navrang\")",
+      "artist": "Asha Bhosle, Manna Dey",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/b7417b5019.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tu Hi Hai.mp3",
+      "title": "Tu Hi Hai",
+      "artist": "Amit Trivedi, Arijit Singh",
+      "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+      "cover": "artwork/a94747aebd.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tu Jaane Na (From  Ajab Prem Ki Ghazab Kahani ).mp3",
+      "title": "Tu Jaane Na (From \"Ajab Prem Ki Ghazab Kahani\")",
+      "artist": "Atif Aslam",
+      "album": "Atif Rocks",
+      "cover": "artwork/1ca1b29651.jpg",
       "language": "Hindi"
     },
     {
@@ -2689,11 +4041,35 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Tum Hi Ho Bandhu (From  Cocktail ).mp3",
+      "title": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "artist": "Neeraj Shridhar, Kavita Seth",
+      "album": "Cocktail",
+      "cover": "artwork/db9a2e1f10.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tum to Pyar Ho Sajna (From Sehra).flac",
+      "title": "Tum to Pyar Ho Sajna (From \"Sehra\")",
+      "artist": "Lata Mangeshkar, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 4",
+      "cover": "artwork/924449e99b.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/tumhari nazar do kaliyan.mp3",
       "title": "tumhari nazar do kaliyan",
       "artist": "tumhari nazar do kaliyan",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Tumhi Dekho Naa.mp3",
+      "title": "Tumhi Dekho Naa",
+      "artist": "Shankar-Ehsaan-Loy, Sonu Nigam, Alka Yagnik",
+      "album": "The Essential Bollywood Lounge",
+      "cover": "artwork/204da588aa.jpg",
       "language": "Hindi"
     },
     {
@@ -2713,6 +4089,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Umadh Ghumadh Kar Aai Re Ghata (From Do Aankhen Bara Haath).flac",
+      "title": "Umadh Ghumadh Kar Aai Re Ghata (From \"Do Aankhen Bara Haath\")",
+      "artist": "Lata Mangeshkar, Manna Dey",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/7d5b83a80e.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/unse mili najar.mp3",
       "title": "unse mili najar",
       "artist": "",
@@ -2721,11 +4105,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Uth Sajani Khol Kiwade (From Aurat).flac",
+      "title": "Uth Sajani Khol Kiwade (From \"Aurat\")",
+      "artist": "Surendra, Jyoti",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/c239bbc862.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/Vaaste.mp3",
       "title": "Vaaste",
       "artist": "Dhvani Bhanushali, Nikhil D'Souza, Tanishk Bagchi",
       "album": "Vaaste",
       "cover": "artwork/3309b1352e.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Voice over Pyarelal.flac",
+      "title": "Voice over Pyarelal",
+      "artist": "Pyarelal",
+      "album": "Years of Hindi Film Music, Vol. 1",
+      "cover": "artwork/50803a6c6a.jpg",
       "language": "Hindi"
     },
     {
@@ -2750,6 +4150,30 @@
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Wahan Kaun Hai Tera Musafir (From Guide).flac",
+      "title": "Wahan Kaun Hai Tera Musafir (From \"Guide\")",
+      "artist": "S. D. Burman",
+      "album": "Years of Hindi Film Music, Vol. 5",
+      "cover": "artwork/d8313694ca.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Watan Ki Raah Mein (From Shaheed).flac",
+      "title": "Watan Ki Raah Mein (From \"Shaheed\")",
+      "artist": "Mohd. Rafi, H. Khan Mastana",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/1679a87bbb.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Where's the Party Tonight.mp3",
+      "title": "Where's the Party Tonight",
+      "artist": "Shankar-Ehsaan-Loy, Shaan, Vasundhara Das, Loy Mendonsa, Shankar Mahadevan",
+      "album": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+      "cover": "artwork/7bb99ece02.jpg",
       "language": "Hindi"
     },
     {
@@ -2809,6 +4233,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Yeh Ankhen Uff Yun Umma (From Jab Pyar Kisi Se Hota Hai).flac",
+      "title": "Yeh Ankhen Uff Yun Umma (From \"Jab Pyar Kisi Se Hota Hai\")",
+      "artist": "Lata Mangeshkar, Mohd. Rafi",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/eb39ca6f9a.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/yeh dil diwana hai.mp3",
       "title": "yeh dil diwana hai",
       "artist": "yeh dil diwana hai",
@@ -2833,6 +4265,14 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Yeh Hawa Yeh Raat Yeh Chandni (From Sangdil).flac",
+      "title": "Yeh Hawa Yeh Raat Yeh Chandni (From \"Sangdil\")",
+      "artist": "Talat Mahmood",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/8502ecb0c8.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/yeh jo chilman hai.mp3",
       "title": "yeh jo chilman hai",
       "artist": "",
@@ -2841,11 +4281,27 @@
       "language": "Hindi"
     },
     {
+      "src": "music/Yeh Jo Mohabbat Hai.mp3",
+      "title": "Yeh Jo Mohabbat Hai",
+      "artist": "Kishore Kumar",
+      "album": "Kati Patang (Original Motion Picture Soundtrack)",
+      "cover": "artwork/17e3978ad5.jpg",
+      "language": "Hindi"
+    },
+    {
       "src": "music/yeh mulaqat ik bahana hai.mp3",
       "title": "yeh mulaqat ik bahana hai",
       "artist": "",
       "album": "",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Yeh Sham Mastani (From  Kati Patang ).mp3",
+      "title": "Yeh Sham Mastani (From \"Kati Patang\")",
+      "artist": "Kishore Kumar",
+      "album": "Krazy Kishore",
+      "cover": "artwork/b0630d3b8a.jpg",
       "language": "Hindi"
     },
     {
@@ -2886,6 +4342,38 @@
       "artist": "Yunhi tum mujhse",
       "album": "IMAX SUPER DIGITAL MP3",
       "cover": "",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Zara Sa Jhoom Loon Main.mp3",
+      "title": "Zara Sa Jhoom Loon Main",
+      "artist": "Asha Bhosle, Abhijeet",
+      "album": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
+      "cover": "artwork/86f29891d3.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Zara Samne to Aa O Chhaliye (From Janam Janam Ke Phere).flac",
+      "title": "Zara Samne to Aa O Chhaliye (From \"Janam Janam Ke Phere\")",
+      "artist": "Mohd. Rafi, Lata Mangeshkar",
+      "album": "Years of Hindi Film Music, Vol. 2",
+      "cover": "artwork/0234b2f3b2.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Zinda (From  Bhaag Milkha Bhaag ).mp3",
+      "title": "Zinda (From \"Bhaag Milkha Bhaag\")",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "The Spirit of Bhaag Milkha Bhaag",
+      "cover": "artwork/3c2d62b8ac.jpg",
+      "language": "Hindi"
+    },
+    {
+      "src": "music/Zindagi Ek Safar Hai Suhana (From Andaz).flac",
+      "title": "Zindagi Ek Safar Hai Suhana (From \"Andaz\")",
+      "artist": "Kishore Kumar",
+      "album": "Years of Hindi Film Music, Vol. 6",
+      "cover": "artwork/3419d3107c.jpg",
       "language": "Hindi"
     },
     {
